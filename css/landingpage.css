@@ -400,3 +400,35 @@
   .fixAlignContainerRow {
     margin: 0 auto;
   }
+
+  .icoRS{
+    width: 35px;
+    position: relative;
+    top: 15px;
+    margin-right: 5px;
+    margin-left: 5px;
+  }
+
+  #mockupImg{
+    width: 100%;
+  }
+
+  #copyright{
+    font-weight: bold;
+    position: relative;
+    top: 25px;
+  }
+
+  #reseaux{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  #subMenu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;
+    left: 25%;
+  }
