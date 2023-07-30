@@ -396,3 +396,7 @@
     font-weight: 600;
     text-shadow: 0 2px 10px rgba(0,0,0,0.2);
   }
+
+  .fixAlignContainerRow {
+    margin: 0 auto;
+  }
